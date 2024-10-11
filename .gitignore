@@ -17,3 +17,6 @@ rnoh*.har
 *.bundle
 /oh-package-lock.json5
 /libs
+/entry/oh_modules
+/entry/src/main/resources/rawfile
+/entry/src/main/cpp/generated
